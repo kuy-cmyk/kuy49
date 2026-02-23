@@ -3,7 +3,7 @@
 ]]
 
 -- Your main script link (If you change the filename, don't forget to update this)
-local MainScriptURL = "https://urlkub.co/Yu3Tqu"
+local MainScriptURL = "https://raw.githubusercontent.com/Kakuri12/WexZ/refs/heads/main/Rivals.lua"
 
 local function LoadWexZ()
     print("-----------------------------------")
